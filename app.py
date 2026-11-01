@@ -30,6 +30,11 @@ Esta aplicação classifica o texto de tweets em três categorias:
 * 🚨 **Discurso de Ódio**: Expressões de ódio dirigidas a grupos protegidos.
 * ⚠️ **Linguagem Ofensiva**: Uso de palavrões ou linguagem vulgar sem incitação direta de ódio.
 * ✅ **Linguagem Neutra**: Texto sem conteúdo ofensivo ou de ódio.
+
+Exemplos:
+- I really enjoyed the football match yesterday, what a great game with friends!
+- This traffic is so fucking annoying, I hate waking up early every day.
+- I hate all immigrants, they are ruining our country and should be kicked out.
 """)
 
 st.divider()
