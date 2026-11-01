@@ -10,6 +10,8 @@ A Análise de Discurso de Ódio em Tweets é um pequeno exercício que visa iden
 
 Este projeto faz parte dos estudos na disciplina TIA - Tópicos em Inteligência Artificial na Universidade de Coimbra.
 
+Live Demo: https://emerson-hatespeechanalysis.streamlit.app/
+
 🚀 Tecnologias Utilizadas
 
     Python 3.8+
